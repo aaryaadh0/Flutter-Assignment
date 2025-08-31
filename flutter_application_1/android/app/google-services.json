@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925709401879",
+    "project_id": "flutter-weather-app-8e057",
+    "storage_bucket": "flutter-weather-app-8e057.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925709401879:android:9a3a716d40cc8704f8c152",
+        "android_client_info": {
+          "package_name": "com.nex.weatherly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925709401879-jortqpm0lo9og7e0766g9f1nsdhqj1ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nex.weatherly",
+            "certificate_hash": "558451483c4a75521ca7411a448ca7c8743b01fa"
+          }
+        },
+        {
+          "client_id": "925709401879-4e5io09snjts0a765ph8f1ns44cb5qui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZV_rhjfynm6IgYsi3j7nOKeIm82iu50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925709401879-4e5io09snjts0a765ph8f1ns44cb5qui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
